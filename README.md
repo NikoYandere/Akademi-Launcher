@@ -3,7 +3,7 @@
 
 
 # Akademi Launcher (a.k.a YLWE - Yanix Launcher Windows Edition)
-This launcher is an unofficial tool, not supported or created by YandereDev. It was developed by NikoYandere as an alternative to the official launcher. If you are looking to use this launcher on Linux, there is a dedicated Linux version available [here](https://github.com/NikoYandere/yanix-launcher) ,though please be aware that the Linux and Windows versions may not be identical in all aspects, as the Windows edition is still a work in progress.
+This launcher is an unofficial tool, not supported or created by YandereDev. It is developed by NikoYandere as an alternative to the official launcher. If you are looking to use this launcher on Linux, there is a dedicated Linux version available [here](https://github.com/NikoYandere/yanix-launcher) ,though please be aware that the Linux and Windows versions may not be identical in all aspects, as the Windows edition is still a work in progress.
 
 While the Akademi Launcher aims to provide an easy and efficient way to launch Yandere Simulator, it is still in development and may undergo significant changes. Users may experience some differences in features or functionality compared to the Linux version, as the development focus is primarily on the Linux platform at the moment.
 
